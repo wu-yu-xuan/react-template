@@ -1,6 +1,6 @@
 {
-  "short_name": "WeLab",
-  "name": "计算机组成与逻辑设计虚拟实验平台",
+  "short_name": "react-template",
+  "name": "基于react的前端模板",
   "icons": [
     {
       "src": "favicon.ico",
